@@ -1,0 +1,4 @@
+registry.k8s.io/cpa/cluster-proportional-autoscaler-amd64:1.8.2
+registry.k8s.io/cpa/cluster-proportional-autoscaler-amd64:1.8.3
+registry.k8s.io/cpa/cluster-proportional-autoscaler-amd64:1.8.4
+registry.k8s.io/cpa/cluster-proportional-autoscaler-amd64:1.8.5

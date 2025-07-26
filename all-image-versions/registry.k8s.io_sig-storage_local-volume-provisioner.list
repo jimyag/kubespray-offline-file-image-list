@@ -1,0 +1,5 @@
+registry.k8s.io/sig-storage/local-volume-provisioner:v2.4.0
+registry.k8s.io/sig-storage/local-volume-provisioner:v2.5.0
+registry.k8s.io/sig-storage/local-volume-provisioner:v2.6.0
+registry.k8s.io/sig-storage/local-volume-provisioner:v2.7.0
+registry.k8s.io/sig-storage/local-volume-provisioner:v2.8.0

@@ -1,0 +1,5 @@
+docker.io/mirantis/k8s-netchecker-agent:latest
+docker.io/mirantis/k8s-netchecker-agent:v1.2.2
+docker.io/mirantis/k8s-netchecker-agent:v1.2.0
+docker.io/mirantis/k8s-netchecker-agent:stable
+docker.io/mirantis/k8s-netchecker-agent:v1.1.0
