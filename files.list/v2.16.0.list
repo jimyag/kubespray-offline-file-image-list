@@ -1,0 +1,13 @@
+https://get.helm.sh/helm-v3.5.4-linux-amd64.tar.gz
+https://github.com/containerd/nerdctl/releases/download/v0.8.1/nerdctl-0.8.1-linux-amd64.tar.gz
+https://github.com/containernetworking/plugins/releases/download/v0.9.1/cni-plugins-linux-amd64-v0.9.1.tgz
+https://github.com/containers/crun/releases/download/0.19/crun-0.19-linux-amd64
+https://github.com/coreos/etcd/releases/download/v3.4.13/etcd-v3.4.13-linux-amd64.tar.gz
+https://github.com/kata-containers/runtime/releases/download/1.12.1/kata-static-1.12.1-x86_64.tar.xz
+https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.20.0/crictl-v1.20.0-linux-amd64.tar.gz
+https://github.com/kubernetes-sigs/krew/releases/download/v0.4.1/krew.tar.gz
+https://github.com/projectcalico/calico/archive/v3.17.4.tar.gz
+https://github.com/projectcalico/calicoctl/releases/download/v3.17.4/calicoctl-linux-amd64
+https://storage.googleapis.com/kubernetes-release/release/v1.20.7/bin/linux/amd64/kubeadm
+https://storage.googleapis.com/kubernetes-release/release/v1.20.7/bin/linux/amd64/kubectl
+https://storage.googleapis.com/kubernetes-release/release/v1.20.7/bin/linux/amd64/kubelet
